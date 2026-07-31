@@ -15,7 +15,7 @@ The project includes data visualization, data preprocessing, feature engineering
 
 This visualization shows daily demand patterns from 2022 to 2024, highlighting fluctuations and periods of higher and lower demand.
 
-![Daily Demand Over Time](images/daily_demand_over_time.jpeg)
+![Daily Demand Over Time](images/demand_over_time.jpeg)
 
 ### 🎯 Feature Importance
 
