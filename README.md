@@ -9,6 +9,25 @@ Accurate demand forecasting helps businesses optimize inventory, reduce operatio
 This project uses historical demand data and machine learning techniques to predict future demand based on relevant product and business features.
 
 The project includes data visualization, data preprocessing, feature engineering, model training, evaluation, model serialization, and deployment of the trained model through a Streamlit web application.
+## 📊 Visualizations
+
+### 📈 Daily Demand Over Time
+
+This visualization shows daily demand patterns from 2022 to 2024, highlighting fluctuations and periods of higher and lower demand.
+
+![Daily Demand Over Time](images/daily_demand_over_time.jpeg)
+
+### 🎯 Feature Importance
+
+This visualization shows the relative importance of the features used by the XGBoost model, highlighting which variables contribute most to demand predictions.
+
+![Feature Importance](images/feature_importance.jpeg)
+
+### 📢 Promotion Impact on Demand
+
+This visualization explores the relationship between promotional activity and demand, providing insights into how promotions influence predicted demand.
+
+![Promotion Impact](images/promotion_impact.jpeg)
 
 ## ✨ Features
 
