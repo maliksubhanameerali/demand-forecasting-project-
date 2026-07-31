@@ -61,21 +61,21 @@ demand-forecasting/
 
 ### 📈 Daily Demand Over Time
 
-This visualization shows daily demand patterns from **2022 to 2024**, highlighting fluctuations and periods of higher and lower demand.
+This visualization shows daily demand patterns from 2022 to 2024, highlighting fluctuations and periods of higher and lower demand.
 
-![Daily Demand Over Time](images/daily_demand.jpeg)
+![Daily Demand Over Time](demand_over_time.jpeg)
 
 ### 🎯 Feature Importance
 
-This visualization shows the relative importance of the features used by the **XGBoost model**, highlighting which variables contribute most to demand predictions.
+This visualization shows the relative importance of the features used by the XGBoost model, highlighting which variables contribute most to demand predictions.
 
-![Feature Importance](images/feature_importance.jpeg)
+![Feature Importance](feature_importance.jpeg)
 
 ### 📢 Promotion Impact on Demand
 
-This visualization explores the relationship between promotional activity and demand, providing insights into how promotional campaigns can influence product demand.
+This visualization explores the relationship between promotional activity and demand, providing insights into how promotions influence predicted demand.
 
-![Promotion Impact](images/promotion_impact.jpeg)
+![Promotion Impact](promotion_impact.jpeg)
 
 ## 🤖 Machine Learning Model
 
